@@ -1,0 +1,6 @@
+1. Cmd açýlýr.
+2. node linear_regression.js yazýlarak program çalýþtýrýlýr.
+3. linear_regression.js dosyasý “odev4_data.xlsx” ve “odev4_LOC.xlsx” dosyasýndaki bilgileri okur ve bunun üzerinde mean ve varyans hesaplamasý yapar.
+4. Çýktý dosyasý olarak “linear_regression_calculation.xlsx” dosyasý oluþturulur.
+
+
